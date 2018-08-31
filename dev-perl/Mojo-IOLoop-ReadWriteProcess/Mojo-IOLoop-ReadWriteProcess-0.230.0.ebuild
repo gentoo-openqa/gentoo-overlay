@@ -4,7 +4,7 @@
 EAPI=6
 
 DIST_AUTHOR="MUDLER"
-DIST_VERSION=0.14
+DIST_VERSION=0.23
 
 inherit perl-module
 
